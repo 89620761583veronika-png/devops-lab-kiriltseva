@@ -2,6 +2,21 @@
 
 Учебный проект для освоения Git, GitHub и основных практик DevOps. Первая лабораторная посвящена настройке рабочего окружения и полному циклу работы с веткой: создание, коммит, публикация, Pull Request и слияние.
 
+## Все лабораторные работы
+
+| Работа | Тема | Ссылка |
+| --- | --- | --- |
+| №0 | Создание репозитория и настройка рабочего окружения | [Открыть отчёт](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/lab0/lab0_report.md) |
+| №1 | Основы работы с Docker | [Открыть отчёт](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/lab1/lab1_report.md) |
+| №2 | CI/CD для Docker-приложения | [Открыть отчёт](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/lab2/lab2_report.md) |
+| №3 | Prometheus, Grafana и безопасность локального сайта | [Открыть отчёт](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/lab3/lab3_report.md) |
+
+## Выдра на страже сборки 🦦
+
+<img src="assets/devops-otter.png" alt="Смешная пушистая выдра с удивлёнными глазами работает за ноутбуком" width="420">
+
+Когда сборка прошла с первого раза, и ты сам в шоке.
+
 ## Автор и контакты
 
 - ФИО: Кирильцева Вероника Сергеевна
