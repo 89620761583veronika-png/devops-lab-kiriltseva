@@ -11,6 +11,12 @@
 | №2 | CI/CD для Docker-приложения | [Открыть отчёт](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/lab2/lab2_report.md) |
 | №3 | Prometheus, Grafana и безопасность локального сайта | [Открыть отчёт](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/lab3/lab3_report.md) |
 
+## Курсовая работа
+
+[Создание персонального сайта с использованием MkDocs](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/tree/main/coursework) — исходные файлы сайта и инструкции по запуску.
+
+[Открыть отчёт по курсовой](https://github.com/89620761583veronika-png/2025_2026-introduction-in-web-tech-u4225-kiriltseva_v_s/blob/main/coursework/report/coursework.md).
+
 ## Выдра на страже сборки 🦦
 
 <img src="assets/devops-otter.png" alt="Смешная выдра с довольной мордочкой смотрит в камеру" width="420">
